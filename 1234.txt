@@ -1,0 +1,42 @@
+<!DOC TYPE html>
+<html>
+<head>
+<title>REGISTER</title>
+</head>
+<body>
+<form.
+<label for="fname">First Name:-</label><br>
+<input type="text" name="fname"><br><br>
+
+<label for="Lname">Last Name:-</label></br>
+<input type="text" name="Lname"></br><br>
+
+<input type="Submit" name="Submit"><br>
+<label>HTML:-</label>
+<input type="radio" name=""><br><br>
+
+<label>Checkbox:-</label>
+<input type="Checkbox" name=""><br><br>
+
+<label>DATE:-</label>
+<input type="date" name=""><br><br>
+
+<label>Color:-</label>
+<input type="color" name=""><br><br>
+
+<label>Password:-</label>
+<input type="Password" name=""><br><br>
+
+<label>Number:</label>
+<input type="Number" name=""></br><br>
+
+<label>Address:-</label>
+<input type="Address" name=""></br><br>
+
+<label>RollNo:-</label>
+<input type="RollNo" name=""></br><br>
+
+
+<form>
+</body>
+</html>
